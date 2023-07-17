@@ -4,7 +4,7 @@ import { getDatabase, ref, push, onValue, remove } from "https://www.gstatic.com
 
 
 const appSettings = {
-    databaseURL:"https://firstone-afca6-default-rtdb.asia-southeast1.firebasedatabase.app/"
+    databaseURL:"https://todoapp2-5b94f-default-rtdb.asia-southeast1.firebasedatabase.app/"
 }
 
 const app = initializeApp(appSettings)
